@@ -1,0 +1,15 @@
+.card-imgtransparent {
+
+	background-color: transparent;
+	flex-basis: 330px;
+	flex-grow: 1;
+	margin: 5px;
+	padding: 15px;
+	text-align: center;
+}
+
+.card-imgtransparent img{
+
+	border-radius: 50%;
+	width: 200px;
+}

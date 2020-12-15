@@ -1,0 +1,9 @@
+.track-img{
+
+	background-image: url(../../pictures/single-diver-big-blue.jpg);
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-size: cover;
+	background-position: center;
+}

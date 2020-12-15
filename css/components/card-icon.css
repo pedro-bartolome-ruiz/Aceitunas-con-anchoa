@@ -1,0 +1,22 @@
+.cards-icon {
+
+	width: 33,33%;
+	color: #FC5200;
+	background-color: #F0F0F5;
+	text-align: center;
+	font-weight: lighter;
+	flex-basis: 330px;
+	flex-grow: 1;
+	margin: 5px;
+	padding: 15px;
+}
+
+.cards-icon h3{
+
+	font-size: 12px;
+}
+
+.cards-icon i{
+
+	font-size: 40px;
+}

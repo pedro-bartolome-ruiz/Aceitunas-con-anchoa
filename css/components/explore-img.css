@@ -1,0 +1,9 @@
+.explore-img {
+
+	background-image: url(../../pictures/tortuga-underwater.jpg);
+	color: white;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-size: cover;
+	background-position: center;
+}

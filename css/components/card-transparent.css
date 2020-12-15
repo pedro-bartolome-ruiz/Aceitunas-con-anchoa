@@ -1,0 +1,8 @@
+.card-transparent{
+	
+	background-color: transparent;
+	flex-basis: 330px;
+	flex-grow: 1;
+	margin: 5px;
+	padding: 15px;
+}

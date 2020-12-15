@@ -1,0 +1,10 @@
+.grid-3cards {
+
+	background-color: transparent;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0px;
+	max-width: 100%;
+}
